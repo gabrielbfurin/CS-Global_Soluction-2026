@@ -1,5 +1,11 @@
 # Mission Control AI — Sistema de Alerta por Lógica Digital (Global Solution 2026)
 
+> 🎓 **Projeto acadêmico — FIAP**
+>
+> Desenvolvido em equipe para a **Global Solution 2026**, na disciplina de **CS**, durante o curso de Ciência da Computação.
+>
+> O projeto aplica conceitos de **lógica digital e álgebra booleana** na criação de um sistema de alerta para uma missão espacial experimental, incluindo definição de variáveis binárias, simplificação lógica, tabela-verdade e simulação de circuito.
+
 **Curso:** Ciências da Computação — FIAP  
 **Turma:** 1CCPX  
 **Professor responsável:** Lucas Moreira  

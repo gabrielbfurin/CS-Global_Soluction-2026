@@ -1,4 +1,4 @@
-# Mission Control AI — Sistema de Alerta por Lógica Digital (Global Solution 2026)
+# Mission Control — Sistema de Alerta por Lógica Digital
 
 > 🎓 **Projeto acadêmico — FIAP**
 >
